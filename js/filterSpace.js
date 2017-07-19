@@ -1,6 +1,7 @@
 /**
  * Created by Administrator on 2017/7/18 0018.
  */
+
 (function(){
     var input = document.getElementById('input');
     var btn = document.getElementById('btn');
