@@ -97,7 +97,7 @@ a:hover {
 .wrapper {
     text-align: center;
     width: 980px;
-    margin: 0px auto;
+    margin: 0 auto;
     position: relative
 }
 
